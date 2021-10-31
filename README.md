@@ -1,6 +1,8 @@
 # docker-podman-simplejavawebapp
 
-Testing deploy and running a  Java WebApp Docker and Podman.
+Testing deploy and running a Java WebApp uder Docker and Podman.
+
+This project is also meant to be enabled for remote debugging in Intellij IDEA.
 
 ## Based on
 This tutorial
